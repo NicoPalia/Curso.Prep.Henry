@@ -1,0 +1,26 @@
+Variable:
+Una variable es un lugar donde guardamos valores que necesitamos tener en cuenta para usar mas tarde y 
+luego cuando lo necesitamos ya sabemos donde lo guardamos con el X nombre que le pusimos a la misma
+algo asi como una etiqueta...
+
+Instrumentos de cuerda:
+Los instrumentos de cuerda son signos que te permiten unir strings osea palabras. Un string esta compuesto por comillas dobles o 
+simples para unir dos strings diferentes se puede usar el signo de suma para concatenar osea unirlos a ambos.
+
+Funciones (argumentos, return):
+Las funciones son lugares donde podemos poner o desarrollar acciones si se cumplen algunos argumentos.Los argumentos son Mediante
+que estandares se va a ejecutar la funcion es decir que va a tener en cuenta.Algo asi como una variable nada mas que esta no esta 
+totalmente definida tiene estandares mas amplios. Mediante el return es lo que devuelve si esta funcion se ejecuta ya sea correcta
+o incorrecta, algo asi como el producto de la funsion.
+
+Declaraciones If:
+Las declaraciones If son como situaciones que se evaluan por ejemplo si una situacion (if) no se cumple entonces pasa a evaluar 
+la siguiente situacion (if else) y si esa situacion no se cumple pasa a la siguiente (else). Pueden darse diferentes cantidad de 
+situaciones una, dos, cinco, etc, estas se enumeran en un orden que se debe cumplir siempre se comienza por un if y se termina 
+con un else las que se pueden repetir son las if else. Un buen ejemplo se puede dar como, Si no pasa esto...(if), entonces puede 
+pasar esto... (if else), pero si no pasa eso tampoco es esto otro... (else)
+
+Valores booleanos ( true, false):
+Los Valores booleanos son simplemente Verdadero o Falso que se escriben en ingles true o false en el editor de texto sirven para 
+que en ciertas partes del codigo por ejemplo en funciones el codigo determine si una condicion es verdadera o falsa. 
+Por ejemplo Si romina no es hombre (false) entonces es una mujer (true). 
