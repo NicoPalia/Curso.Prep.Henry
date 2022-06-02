@@ -1,0 +1,22 @@
+for :
+Un "for" es un bucle esto quiere decir que lo que este dentro de el se va a repetir
+las veces necesarias hasta que se cumpla la condicion  pedida...
+Un "for" Esta compuesto por tres partes: Una variable, Una condicion y por ultimo
+la incrementacion osea como va a ser el conteo o el incremento. 
+
+&&
+El operador "AND" o en español "Y" es un operador logico que compara dos expresiones 
+si una de ellas es falsa nos va a retornar "false" la unica forma que nos devuelva 
+"true" es que ambas expresiones sean verdaderas.
+
+||
+El operador "OR" o en español "O" es un operador logico que tambien compara dos 
+expresiones pero al caso contrario de "&&" ,este operador con tan solo una de
+las dos expresiones sea verdadera ya nos va a devolver verdadero osea "true",la 
+unica forma que nos devuelva falso es que ambas expresiones sean falsas es decir 
+"false" 
+
+!
+El operador "NOT" que español significa "NO" devuelve un booleano opuesto al que 
+te este pasando el editor. Por ejemplo si te devuelve "true" el operador te devolvera 
+"false" .
