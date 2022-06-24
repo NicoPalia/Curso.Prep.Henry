@@ -1,0 +1,7 @@
+Arreglos:
+
+Los arreglos o mejor dicho arrays son con Bibliotecas donde podes guardar varias 
+cosas como por ejemplos funciones o variables que pueden ser numeros, strings o
+booleanos, que los mismos los puedes llamar o buscar cuando los necesites. Los
+Arrays tienen un orden que comienza apartir del numero 0 a comparacion de la 
+vida real que comenzamos a contar desde el numero 1.
