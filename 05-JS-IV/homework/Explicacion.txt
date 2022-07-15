@@ -1,0 +1,22 @@
+Objetos:
+Los objetos son como fabricas de cosas de alguna clase con diferentes caracteristicas
+llamadas propiedades.
+
+Propiedades:
+Las propiedades son caracteristicas o variables que puede tener nuestro objeto, las mismas 
+pueden estar conteniendo numeros strings booleanos o funciones.
+
+Metodos:
+Los metodos son funciones que se encuentran dentro de un objeto.
+
+Bucle ForIn:
+El bucle forIn es un bucle que funciona similar a el bucle que ya conocemos nada mas que este 
+recorre el objeto. El mismo tiene una palabra clave propiamente dicha que es In que lo ponemos
+en el parametro antes del nombre de nuestro objeto... por ejemplo : "var marcas in superMercado".
+
+Notacion de puntos y Notacion de corchetes:
+La Notacion de puntos o NotNotation se usa para llamar o señalar a una propiedad de nuestro elemento 
+de manera facil y rapida con el Nombre del mismo y un punto seguido de el nombre de la propiedad o 
+metodo.En Cambio la Notacion de Corchetes o BraketNotation se usa mas similar a cuando nos ubicamos 
+o llamamos a un elemento de un arreglo es decir con Brakets en esta notacion debemos usar comillas 
+dentro de los Brakets. 

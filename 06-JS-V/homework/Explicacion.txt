@@ -1,0 +1,6 @@
+Prototype:
+Esta propiedad nos permite escribir el metodo una sola vez para que sea 
+llamado en cualquier momento que se lo nombra, esto nosm ahorra codigo
+y memoria ya que si tendriamos que crear antos metodos como objetos se 
+nos complicaria en algunos casos y esto nos tomaria mucho tiempo y
+espacio de memoria. 

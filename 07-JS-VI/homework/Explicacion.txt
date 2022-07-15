@@ -1,0 +1,5 @@
+CallBacks:
+Son una herrramienta que nos permite llamar a funciones adentro 
+de otras funciones con el simple hecho de nombrarlas. esto nos puede 
+facilitar mucho para usar metodos de arrays y otras herramientas para 
+mejorar nuestro trabajo en el codigo.
